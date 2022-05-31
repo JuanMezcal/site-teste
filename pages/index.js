@@ -1,5 +1,10 @@
+
 function Home() {
-    return <div>Home 2</div>
+    return (
+    <div>
+        <h1>Home</h1>
+        <a href="/sobre"> Acessar página Sobre</a>
+    </div>)
 }
 
 export default Home     
